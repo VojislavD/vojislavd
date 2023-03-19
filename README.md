@@ -10,6 +10,4 @@ My expertise lies in designing and developing robust, scalable, and high-perform
 
 I believe that well-tested and well-structured code is not only essential for delivering reliable software solutions but also for enhancing the development process and improving collaboration between team members.
 
-In my free time, I enjoy keeping up-to-date with the latest trends and technologies in the industry.
-
 If you're looking for a skilled software engineer who can deliver high-quality work on time, I'd love to hear from you!
